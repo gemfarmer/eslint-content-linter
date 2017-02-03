@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^3.14.1",
-    "eslint-plugin-retext": "0.0.0",
+    "eslint-plugin-retext": "github:gemfarmer/eslint-plugin-retext#custom-rule",
     "espree": "^3.4.0",
     "retext": "^4.0.0",
     "retext-simplify": "^3.0.0",

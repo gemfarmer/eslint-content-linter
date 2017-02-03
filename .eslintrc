@@ -1,14 +1,12 @@
 # parser: ./parse
-env:
-  es6: true
-  browser: true
-extends: eslint:recommended
 parserOptions:
   foot: bart
   bar: foo
 plugins:
   - retext
-files:
-  patterns:
-    - "*.md"
-    - "*.txt"
+rules:
+  "retext/custom": 1
+# files:
+#   patterns:
+#     - "*.md"
+#     - "*.txt"

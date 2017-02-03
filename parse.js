@@ -1,12 +1,13 @@
-const retext = require('retext');
-const simplify = require('retext-simplify');
-const report = require('vfile-reporter');
-const espree = require("espree");
-const visit = require('unist-util-visit');
+// var retext = require('retext');
+// var simplify = require('retext-simplify');
+// var report = require('vfile-reporter');
+// var espree = require("espree");
+// var visit = require('unist-util-visit');
 
 // console.log(espree.parse('var boo = "hoo";\nvar hooo = "hoo";'))
 
-const something;
+// var something = {};
+var s = {};
 // module.exports = {
 //   parse: (code, options) => {
 //     options = options || {};
