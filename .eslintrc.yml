@@ -1,0 +1,6 @@
+# parser: ./parse
+parserOptions:
+  foot: bart
+  bar: foo
+plugins:
+  - retext
