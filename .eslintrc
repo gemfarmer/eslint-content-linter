@@ -4,3 +4,7 @@ parserOptions:
   bar: foo
 plugins:
   - retext
+files:
+  patterns:
+    - "*.md"
+    - "*.txt"
