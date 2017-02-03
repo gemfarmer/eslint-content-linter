@@ -6,7 +6,7 @@ const visit = require('unist-util-visit');
 
 // console.log(espree.parse('var boo = "hoo";\nvar hooo = "hoo";'))
 
-const something
+const something;
 // module.exports = {
 //   parse: (code, options) => {
 //     options = options || {};
