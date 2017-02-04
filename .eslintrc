@@ -5,7 +5,8 @@ parserOptions:
 plugins:
   - retext
 rules:
-  "retext/custom": 1
+  "retext/custom": 2
+  "no-unused-vars": 2
 # files:
 #   patterns:
 #     - "*.md"
