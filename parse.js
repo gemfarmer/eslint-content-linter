@@ -8,6 +8,8 @@
 
 // var something = {};
 var s = {};
+var t = {};
+var u = [];
 // module.exports = {
 //   parse: (code, options) => {
 //     options = options || {};
